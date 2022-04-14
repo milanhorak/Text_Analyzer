@@ -1,7 +1,7 @@
 # Text Analyzer
 The 1st ENGETO PYTHON Academy project.
 
-The application will scan the text of any length and find out various information about it. Works with entered pre-prepared texts.
+The application will scan the text of any length and find out various information about it. Works with entered prepared texts.
 
 The app includes the following:
 * asks the user for a login name and password,
